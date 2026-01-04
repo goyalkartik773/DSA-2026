@@ -62,6 +62,3 @@ using namespace std;
         }
         return result;
     }
-int main(){
-    return 0;
-}

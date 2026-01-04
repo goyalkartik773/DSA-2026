@@ -46,6 +46,5 @@ using namespace std;
         }
         return solve(bottom, 0, "", mp);
     }
-int main(){
-    return 0;
+};
 }

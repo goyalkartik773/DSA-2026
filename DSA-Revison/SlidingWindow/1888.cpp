@@ -2,6 +2,9 @@
 #include<string>
 #include<numeric>
 using namespace std;
+// key concepts to learn
+// agar cyclic shift wagera ho to string ko concatenate karlena chaiya
+// then to simulate the strings we can use sliding window instead of doing it physically
 class Solution {
 public:
     int minFlips(string s) {
@@ -42,5 +45,5 @@ public:
     }
 };
 int main(){
-    
+
 }

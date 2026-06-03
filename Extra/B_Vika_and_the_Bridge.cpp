@@ -15,6 +15,8 @@ int main() {
 
         vector<int> c(n);
         for(int i = 0; i < n; i++) cin >> c[i];
+        
+        cout<<0(c)<<" ";
 
         vector<vector<int>> pos(k + 1);
 
